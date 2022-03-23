@@ -10,8 +10,4 @@
 6. Replace activity to it's name by refering activity label
 7. creates `tidy_data.txt` - a final file with tidy data 
 
-## Files
-* `run_analysis.R` -- script
-* `codebook.md` -- codebook
-* `tidy_data.txt` -- final data
 
