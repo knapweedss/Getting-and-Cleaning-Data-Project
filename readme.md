@@ -8,6 +8,6 @@
 4. Loads the activity and subject data for each dataset, and merges those columns with the dataset
 5. Merges the two datasets
 6. Replace activity to it's name by refering activity label
-7. creates `tidy_data.txt` - a final file with tidy data 
+7. creates `tidy_dataset.txt` - a final file with tidy data 
 
 
